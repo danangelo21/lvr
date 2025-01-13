@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "HTTbiPvwotHol7bbIiVl8gbGpa9jka1D2kV4Ckjn4NI=",
+  "Source": "LvrCalculatorWebApi",
+  "BasePath": "_content/LvrCalculatorWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LvrCalculatorWebApi\\wwwroot",
+      "Source": "LvrCalculatorWebApi",
+      "ContentRoot": "C:\\Users\\damian\\source\\repos\\LvrCalculatorWebApi\\LvrCalculatorWebApi\\wwwroot\\",
+      "BasePath": "_content/LvrCalculatorWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\damian\\source\\repos\\LvrCalculatorWebApi\\LvrCalculatorWebApi\\wwwroot\\app.js",
+      "SourceId": "LvrCalculatorWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\damian\\source\\repos\\LvrCalculatorWebApi\\LvrCalculatorWebApi\\wwwroot\\",
+      "BasePath": "_content/LvrCalculatorWebApi",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fsjar6yw3z",
+      "Integrity": "r3UiOjgvAikrNKBy/OM5pVCXyMdrC7SEAtgvyFhk+Dc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\damian\\source\\repos\\LvrCalculatorWebApi\\LvrCalculatorWebApi\\wwwroot\\index.html",
+      "SourceId": "LvrCalculatorWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\damian\\source\\repos\\LvrCalculatorWebApi\\LvrCalculatorWebApi\\wwwroot\\",
+      "BasePath": "_content/LvrCalculatorWebApi",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l135gy5qf5",
+      "Integrity": "qUYY0s08UyQQSv+OrT+UgilELuNOaaHKAVt64wqd6Fg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\damian\\source\\repos\\LvrCalculatorWebApi\\LvrCalculatorWebApi\\wwwroot\\styles.css",
+      "SourceId": "LvrCalculatorWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\damian\\source\\repos\\LvrCalculatorWebApi\\LvrCalculatorWebApi\\wwwroot\\",
+      "BasePath": "_content/LvrCalculatorWebApi",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6xt7bwnhnt",
+      "Integrity": "Oq7bAyyJnsQZIJwku1uqGsA6QJUtJeH6R+qvvK9nq/o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.fsjar6yw3z.js",
+      "AssetFile": "C:\\Users\\damian\\source\\repos\\LvrCalculatorWebApi\\LvrCalculatorWebApi\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r3UiOjgvAikrNKBy/OM5pVCXyMdrC7SEAtgvyFhk+Dc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 18:34:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fsjar6yw3z"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r3UiOjgvAikrNKBy/OM5pVCXyMdrC7SEAtgvyFhk+Dc="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "C:\\Users\\damian\\source\\repos\\LvrCalculatorWebApi\\LvrCalculatorWebApi\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r3UiOjgvAikrNKBy/OM5pVCXyMdrC7SEAtgvyFhk+Dc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 18:34:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r3UiOjgvAikrNKBy/OM5pVCXyMdrC7SEAtgvyFhk+Dc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\damian\\source\\repos\\LvrCalculatorWebApi\\LvrCalculatorWebApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qUYY0s08UyQQSv+OrT+UgilELuNOaaHKAVt64wqd6Fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 18:13:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qUYY0s08UyQQSv+OrT+UgilELuNOaaHKAVt64wqd6Fg="
+        }
+      ]
+    },
+    {
+      "Route": "index.l135gy5qf5.html",
+      "AssetFile": "C:\\Users\\damian\\source\\repos\\LvrCalculatorWebApi\\LvrCalculatorWebApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qUYY0s08UyQQSv+OrT+UgilELuNOaaHKAVt64wqd6Fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 18:13:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l135gy5qf5"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qUYY0s08UyQQSv+OrT+UgilELuNOaaHKAVt64wqd6Fg="
+        }
+      ]
+    },
+    {
+      "Route": "styles.6xt7bwnhnt.css",
+      "AssetFile": "C:\\Users\\damian\\source\\repos\\LvrCalculatorWebApi\\LvrCalculatorWebApi\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oq7bAyyJnsQZIJwku1uqGsA6QJUtJeH6R+qvvK9nq/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 18:10:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6xt7bwnhnt"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oq7bAyyJnsQZIJwku1uqGsA6QJUtJeH6R+qvvK9nq/o="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\damian\\source\\repos\\LvrCalculatorWebApi\\LvrCalculatorWebApi\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oq7bAyyJnsQZIJwku1uqGsA6QJUtJeH6R+qvvK9nq/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 18:10:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oq7bAyyJnsQZIJwku1uqGsA6QJUtJeH6R+qvvK9nq/o="
+        }
+      ]
+    }
+  ]
+}

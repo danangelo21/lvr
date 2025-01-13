@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LVR Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <center><h1>LVR Calculator</h1></center>
+    <form id="lvrForm">
+
+        <h3>Fill in the details</h3>
+        <label for="propertyValue">What is the value property?</label><br />
+        <input type="number" id="propertyValue" name="propertyValue" required><br><br />
+        <label for="loanAmount">How much are you planning to borrow? </label><br />
+        <input type="number" id="loanAmount" name="loanAmount" required><br>
+        <br />
+        <button type="submit">Calculate LVR</button>
+    </form>
+
+    <h2>Calculated LVR:</h2>
+    <div id="result"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>

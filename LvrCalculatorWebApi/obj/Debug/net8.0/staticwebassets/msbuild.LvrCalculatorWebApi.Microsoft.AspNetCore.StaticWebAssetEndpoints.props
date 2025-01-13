@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/LvrCalculatorWebApi/app.fsjar6yw3z.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fsjar6yw3z"},{"Name":"integrity","Value":"sha256-r3UiOjgvAikrNKBy/OM5pVCXyMdrC7SEAtgvyFhk\u002BDc="},{"Name":"label","Value":"_content/LvrCalculatorWebApi/app.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1021"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022r3UiOjgvAikrNKBy/OM5pVCXyMdrC7SEAtgvyFhk\u002BDc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 18:34:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LvrCalculatorWebApi/app.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r3UiOjgvAikrNKBy/OM5pVCXyMdrC7SEAtgvyFhk\u002BDc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1021"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022r3UiOjgvAikrNKBy/OM5pVCXyMdrC7SEAtgvyFhk\u002BDc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 18:34:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LvrCalculatorWebApi/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qUYY0s08UyQQSv\u002BOrT\u002BUgilELuNOaaHKAVt64wqd6Fg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"891"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022qUYY0s08UyQQSv\u002BOrT\u002BUgilELuNOaaHKAVt64wqd6Fg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 18:13:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LvrCalculatorWebApi/index.l135gy5qf5.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l135gy5qf5"},{"Name":"integrity","Value":"sha256-qUYY0s08UyQQSv\u002BOrT\u002BUgilELuNOaaHKAVt64wqd6Fg="},{"Name":"label","Value":"_content/LvrCalculatorWebApi/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"891"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022qUYY0s08UyQQSv\u002BOrT\u002BUgilELuNOaaHKAVt64wqd6Fg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 18:13:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LvrCalculatorWebApi/styles.6xt7bwnhnt.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6xt7bwnhnt"},{"Name":"integrity","Value":"sha256-Oq7bAyyJnsQZIJwku1uqGsA6QJUtJeH6R\u002BqvvK9nq/o="},{"Name":"label","Value":"_content/LvrCalculatorWebApi/styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"480"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Oq7bAyyJnsQZIJwku1uqGsA6QJUtJeH6R\u002BqvvK9nq/o=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 18:10:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LvrCalculatorWebApi/styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Oq7bAyyJnsQZIJwku1uqGsA6QJUtJeH6R\u002BqvvK9nq/o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"480"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Oq7bAyyJnsQZIJwku1uqGsA6QJUtJeH6R\u002BqvvK9nq/o=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 18:10:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

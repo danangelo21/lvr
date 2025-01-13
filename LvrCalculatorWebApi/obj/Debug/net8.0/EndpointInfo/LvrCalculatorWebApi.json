@@ -1,0 +1,58 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "LvrCalculatorWebApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/LvrCalculator": {
+      "post": {
+        "tags": [
+          "LvrCalculator"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LvrRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LvrRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LvrRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "LvrRequest": {
+        "type": "object",
+        "properties": {
+          "loanAmount": {
+            "type": "number",
+            "format": "double"
+          },
+          "propertyValue": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
